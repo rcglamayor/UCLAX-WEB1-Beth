@@ -7,7 +7,7 @@ function App() {
 
     return (
         <div className="App">
-            UCLAX-Web1-Summer2023
+            UCLAX-Web1-Summer2023: It's happening!
         </div>
     );
 }
