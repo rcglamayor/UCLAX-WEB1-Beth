@@ -1,4 +1,4 @@
-# UCLAX Web 1 Project
+# UCLAX Web 1 Project Summer 2023
 
 This resource is a starter project for students in the UCLAX Web 1 course.
 
