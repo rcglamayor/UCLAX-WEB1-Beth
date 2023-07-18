@@ -1,7 +1,5 @@
-# UCLAX Web 1 Project Summer 2023
+# UCLAX-Web1-Gohman-Mitch
 
-This resource is a starter project for students in the UCLAX Web 1 course.
+2023.01.08-15.01.05
 
-## Setup Instructions
-
-Head over to [Setup](_setup/SETUP.md) to walk through the steps needed to configure your system.
+2023.01.08-15.01.52
