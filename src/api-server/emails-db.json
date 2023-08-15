@@ -1,0 +1,40 @@
+{
+  "submissions": [
+    {
+      "id": "2b009fa2-9ebc-4ea0-ad9e-84c94b0c8e51",
+      "name": "Mitch",
+      "email": "meatch@me.com",
+      "message": "Some message would go here."
+    },
+    {
+      "id": "931b2b60-24de-4ec8-9f1f-aafd17f0a404",
+      "name": "George",
+      "email": "george@me.com",
+      "message": "Another message"
+    },
+    {
+      "id": "9792672f-f6cb-4b29-98c4-5f45ba24b66b",
+      "name": "Tan",
+      "email": "tan@me.com",
+      "message": "A message from Tan"
+    },
+    {
+      "id": "ec638c12-f14a-454f-b42b-e881f66b6ffd",
+      "name": "Slim Shady",
+      "email": "slim@shady.com",
+      "message": "This is a test."
+    },
+    {
+      "id": "92d354e5-564f-4670-8a59-e70674a9740f",
+      "name": "Neal",
+      "email": "neal@law.com",
+      "message": "Indicted."
+    },
+    {
+      "id": "d4131fef-9e48-416d-8592-c968851ae0d2",
+      "name": "Judge Soandso",
+      "email": "judge@usa.gov",
+      "message": "You guilty."
+    }
+  ]
+}
